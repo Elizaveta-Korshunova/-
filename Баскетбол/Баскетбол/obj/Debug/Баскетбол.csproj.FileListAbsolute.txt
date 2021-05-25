@@ -1,0 +1,12 @@
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\bin\Debug\Баскетбол.exe.config
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\bin\Debug\Баскетбол.exe
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\bin\Debug\Баскетбол.pdb
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.csprojAssemblyReference.cache
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.Form1.resources
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.Properties.Resources.resources
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.csproj.GenerateResource.cache
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.csproj.CoreCompileInputs.cache
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.exe
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.pdb
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.Результаты1группы.resources
+C:\Users\gkaro\source\repos\Баскетбол\Баскетбол\obj\Debug\Баскетбол.РезультатыЧемпионата.resources
